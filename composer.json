@@ -1,0 +1,16 @@
+{
+    "name": "itel/new",
+    "description": "site_evenemet",
+    "autoload": {
+        "psr-4": {
+            "Koleba\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Traoré Adama",
+            "email": "traoreadamaKoleba@gmail.com"
+        }
+    ],
+    "require": {}
+}
